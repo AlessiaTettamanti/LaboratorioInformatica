@@ -1,4 +1,4 @@
-# Dati sulle visite annuali dei musei italiani più visitati dal 2000 al 2024
+# Dati sulle visite annuali dei musei italiani più visitati dal 2000 al 2024 
 **Laboratorio di Informatica Umanistica Avanzata — Università di Verona**
 
 ---
