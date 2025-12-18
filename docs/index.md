@@ -1,4 +1,1 @@
 #Laboratorio Informatica
-ksdnsakn
-
-ksfbnlk
