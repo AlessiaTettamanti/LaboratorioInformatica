@@ -62,4 +62,4 @@ I contenuti e i materiali del progetto sono pubblicati con licenza **Creative Co
 
 ---
 
-*Progetto sviluppato da studenti e collaboratori del Laboratorio di Informatica Avanzata — Università di Verona.*
+*Progetto sviluppato da Alessia Tettamanti per il Laboratorio di Informatica Avanzata — Università di Verona.*
