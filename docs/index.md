@@ -1,11 +1,11 @@
-# Dati sulle visite annuali dei musei italiani più visitati dal 2000 al 2024 
+# Dati sulle visite annuali dei musei italiani e lombardi più visitati dal 2000 al 2024 
 **Laboratorio di Informatica Umanistica Avanzata — Università di Verona**
 
 ---
 
 ## Descrizione del progetto
 
-Questo progetto nasce nell’ambito del **Laboratorio di Informatica Avanzata** presso l’**Università di Verona** con lo scopo di analizzare e visualizzare i dati relativi ai **musei più visitati in Italia** nel periodo compreso tra il **2000 e il 2024**.
+Questo progetto nasce nell’ambito del **Laboratorio di Informatica Avanzata** presso l’**Università di Verona** con lo scopo di analizzare e visualizzare i dati relativi ai **musei più visitati in Italia, ed in particolare in Lombardia**, nel periodo compreso tra il **2000 e il 2024**.
 
 Il lavoro si concentra sull’uso di tecniche informatiche per:
 
